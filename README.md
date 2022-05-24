@@ -1,2 +1,1 @@
-# DigitallyncTasks
-tasks
+# Fullstackdev-practice
